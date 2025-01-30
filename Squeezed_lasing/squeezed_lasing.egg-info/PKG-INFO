@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: squeezed_lasing
+Version: 0
+Summary: A package to study squeezed lasing for my masters thesis
+Author: Rodrigo Grande de Diego
+Requires-Python: >=3.9
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: jupyter
+Requires-Dist: qutip
+Requires-Dist: tqdm
+Requires-Dist: scipy
